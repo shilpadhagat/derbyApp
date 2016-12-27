@@ -16,6 +16,7 @@ Now install the dependencies and start running the server
 ```bash
 $ git clone https://github.com/shilpadhagat/derbyApp
 $ cd derbyApp
+$ unzip derbyApp/node_modules.zip
 $ npm install -g coffee-script
 $ cd derbyApp/todos
 $ coffee server.coffee
