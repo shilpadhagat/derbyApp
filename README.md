@@ -1,4 +1,4 @@
-#Simple Derby App using Blaze
+#Simple Derby App
 
 Simple application created using JavaScript full-stack framework, Derby. Derby is a model-view controller (MVC)
 JavaScript framework for both client-side and server-side. It is ideal for creating real-time mobile and web applications.
